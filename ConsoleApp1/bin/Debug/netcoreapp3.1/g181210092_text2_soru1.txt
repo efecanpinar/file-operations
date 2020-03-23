@@ -1,0 +1,15 @@
+Harf Notu: AA 
+Alan Kişi Sayısı: 2 
+Harf Notunun Sınıfa Göre Yüzdesi: %50
+
+
+Harf Notu: BA 
+Alan Kişi Sayısı: 1 
+Harf Notunun Sınıfa Göre Yüzdesi: %25
+
+
+Harf Notu: FF 
+Alan Kişi Sayısı: 1 
+Harf Notunun Sınıfa Göre Yüzdesi: %25
+
+
